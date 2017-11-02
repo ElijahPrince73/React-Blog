@@ -9,6 +9,7 @@
     "dev-server": "webpack-dev-server --open"
   },
   "dependencies": {
+    "axios": "^0.17.0",
     "babel-cli": "6.24.1",
     "babel-core": "6.25.0",
     "babel-loader": "7.1.1",
@@ -21,6 +22,7 @@
     "react-redux": "5.0.5",
     "react-router-dom": "4.1.2",
     "redux": "3.7.2",
+    "redux-promise": "^0.5.3",
     "webpack": "3.1.0",
     "webpack-dev-server": "2.5.1"
   }
