@@ -18,3 +18,13 @@ form {
     margin-left: 5px;
   }
 }
+
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5%;
+
+  .btn {
+    margin: 0;
+  }
+}
