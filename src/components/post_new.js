@@ -12,7 +12,7 @@ class PostNew extends Component {
           type='text'
           {...field.input}
         />
-
+        
         {/* this is an error */}
         {field.meta.touched ? field.meta.error : ''}
       </div>
